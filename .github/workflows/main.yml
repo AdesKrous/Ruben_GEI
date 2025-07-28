@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Invitación Vaquera - 50 Años de Jaiver Zuleta</title>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Roboto&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Special Elite', monospace;
+      background: url('https://i.imgur.com/ihukCGA.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff3e0;
+      text-align: center;
+    }
+    .overlay {
+      background: rgba(0, 0, 0, 0.75);
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+    h1, h2, h3 {
+      margin: 20px 0;
+    }
+    .highlight {
+      color: #ffc107;
+      font-size: 1.4em;
+    }
+    .card {
+      background-color: rgba(60, 30, 10, 0.9);
+      padding: 30px;
+      border-radius: 10px;
+      max-width: 600px;
+      margin: 0 auto;
+      border: 2px dashed #ffeb3b;
+    }
+    .icon {
+      font-size: 1.5em;
+      margin-right: 10px;
+    }
+    .footer {
+      margin-top: 40px;
+      font-style: italic;
+      color: #ffd54f;
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <div class="card">
+      <h2>🤠 ATENCIÓN FORASTEROS…</h2>
+      <h1 class="highlight">¡Se viene una celebración legendaria!</h1>
+
+      <p>En honor al hombre que impone respeto en cada paso…</p>
+      <h2>El jefe, el patrón, el gran <span class="highlight">JAIVER ZULETA</span></h2>
+      <p>¡Cumple 50 años de historia!</p>
+
+      <p>Y sus hijos, <strong>Sebastián Zuleta</strong> y <strong>Tatiana Zuleta</strong>,<br>
+      han preparado una emboscada festiva que ni el mismísimo sheriff vio venir…</p>
+
+      <hr style="margin: 30px 0; border: 1px dashed #ffeb3b;">
+
+      <p><span class="icon">📅</span> <strong>Sábado 13 de septiembre</strong></p>
+      <p><span class="icon">🕖</span> <strong>7:00 pm en punto</strong></p>
+      <p><span class="icon">📍</span> Salón Channel – Cra. 19 #20-35 Sur – 2° Piso, Barrio Restrepo</p>
+      <p><span class="icon">🎩</span> <strong>Código vaquero obligatorio:</strong><br>Sombrero, botas y toda la pinta del Viejo Oeste</p>
+      <p><span class="icon">💌</span> Lluvia de sobres</p>
+
+      <hr style="margin: 30px 0; border: 1px dashed #ffeb3b;">
+
+      <h3 class="highlight">🔒 ¡OJO! ES SORPRESA</h3>
+      <p>Ni una palabra al jefe…<br>¡quien hable, se enfrenta al desierto!</p>
+
+      <div class="footer">¡Nos vemos en el rodeo!</div>
+    </div>
+  </div>
+</body>
+</html>
